@@ -2,7 +2,7 @@
 
 I am currently studying machine learning, so this repo is just another side project along my learning journey.
 
-It includes data preprocessing code, and I plan to add model training code soon.
+It includes data preprocessing code, and I plan to add model training code soon. The code is written using Marimo, so all `.py` files are actually notebooks.
 
 Feel free to use whatever code you find here without attribution or anything like that.
 
