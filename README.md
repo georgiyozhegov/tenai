@@ -15,3 +15,17 @@ To get `input.csv` with the preprocessed data, run:
 ```
 > ./fetch.sh
 ```
+
+# Train
+
+To run model training, execute:
+
+```
+uv run train_winner.py
+```
+
+But I recommend running it as a Marimo notebook instead:
+
+```
+uv run marimo edit train_winner.py
+```
