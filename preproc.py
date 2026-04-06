@@ -278,18 +278,6 @@ def _(df_2):
 
 @app.cell
 def _(df_2):
-    len(df_2)
-    return
-
-
-@app.cell
-def _(df_2):
-    df_2
-    return
-
-
-@app.cell
-def _(df_2):
     df_2.sort_values(by="tournament_start_date", inplace=True)
     return
 
